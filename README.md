@@ -1,8 +1,12 @@
 # markdown
 마크다운 설명
 
+### 9. 강조
+**spring**을 만끽하세요
+*spring*을 만끽하세
+
 ### 8. 이미지 넣기
-![]()
+![파이참](https://github.com/hyobean/markdown/tree/main/doc/IMG_example.jpg "파이참 툴팁 예시")
 
 ### 7. 하이퍼 링크
 [e클래스](https://cafe.daum.net/pcwk "e클래스의 cafe입니다.")
