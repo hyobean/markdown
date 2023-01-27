@@ -1,12 +1,26 @@
 # markdown
 마크다운 설명
 
+### 11. 표
+|번호|아이디|이름|레벨|이메일|등록일|
+|:---------|:---------|:---------|---------:|:---------------|:---------:|
+|1   |hyobean1|정효빈1|1|wjd4427947@naver.com|2023-01-27|
+|2   |hyobean2|정효빈2|1|wjd4427947@naver.com|2023-01-27|
+|3   |hyobean3|정효빈3|1|wjd4427947@naver.com|2023-01-27|
+|4   |hyobean4|정효빈4|1|wjd4427947@naver.com|2023-01-27|
+|5   |hyobean5|정효빈5|1|wjd4427947@naver.com|2023-01-27|
+|6   |hyobean6|정효빈6|1|wjd4427947@naver.com|2023-01-27|
+
+### 10. 인라인
+문단 중간에 `CODE` 를 넣을 수 있다.(고정 폭 폰트를 표시해야 할 때 사용)
+예를 들어 `question_list = Question.objects.order_by('-create_date')`  처럼
+
 ### 9. 강조
 **spring**을 만끽하세요
-*spring*을 만끽하세
+spring을 만끽하세요
 
 ### 8. 이미지 넣기
-![파이참](https://github.com/hyobean/markdown/tree/main/doc/IMG_example.jpg "파이참 툴팁 예시")
+![아반떼 N](doc/IMG_example.jpg "이미지 삽입 예시")
 
 ### 7. 하이퍼 링크
 [e클래스](https://cafe.daum.net/pcwk "e클래스의 cafe입니다.")
