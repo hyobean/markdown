@@ -1,5 +1,5 @@
 # markdown
-마크다운 설명 
+마크다운 설명
 
 ### 11. 표
 |번호|아이디|이름|레벨|이메일|등록일|
@@ -16,7 +16,7 @@
 예를 들어 `question_list = Question.objects.order_by('-create_date')`  처럼
 
 ### 9. 강조
-**spring**을 만끽하세요
+**spring**을 만끽하세요  
 spring을 만끽하세요
 
 ### 8. 이미지 넣기
